@@ -1,0 +1,6 @@
+pandas
+numpy
+lxml
+bs4
+requests
+ipykernel
