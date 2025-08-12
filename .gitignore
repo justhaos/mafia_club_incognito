@@ -1,0 +1,5 @@
+workspace.ipynb
+__pycache__
+*.xlsx
+*.csv
+*.log
