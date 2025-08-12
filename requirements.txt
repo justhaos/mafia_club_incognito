@@ -4,3 +4,4 @@ lxml
 bs4
 requests
 ipykernel
+requests_toolbelt
